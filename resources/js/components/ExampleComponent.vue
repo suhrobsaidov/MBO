@@ -1,12 +1,15 @@
 <template>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="card">
-                    <div class="card-header">Example Component</div>
+                    <div class="card-header">MBO</div>
 
-                    <div class="card-body">
-                        I'm an example component.
+                    <div class="row">
+                       <center> <h1> Абдулло играет <a  target="_blank" href="https://google.com">Brawl stars</a></h1>
+                       <br>
+
+                       </center>
                     </div>
                 </div>
             </div>
